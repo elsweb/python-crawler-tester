@@ -1,4 +1,6 @@
 .env
 chromedriver-win64
 *.exe
-_old
+_old/
+**/__pycache__
+.pytest_cache
