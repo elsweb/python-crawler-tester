@@ -1,6 +1,6 @@
 https://medium.com/@shaliamekh/clean-architecture-with-python-d62712fd8d4f
 https://www.youtube.com/watch?v=sj8iBComo0k&list=PLAgbpJQADBGK0opZ8ZuDX3zDjQck_QKMy&index=6 - 00:00
-
+https://github.com/programadorLhama/CleanArch
 
 #atenção!
 o arquivo .pylintrc não é gerado em utf-8 então quando for gerar um novo, salvar as alterações
